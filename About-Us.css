@@ -256,12 +256,6 @@
   }
 }
 
-@media (max-width: 575px) {
-  .u-section-3 .u-btn-2 {
-    margin-left: 58px;
-  }
-}
-
 .u-section-3 .u-btn-1,
 .u-section-3 .u-btn-1:before,
 .u-section-3 .u-btn-1 > .u-container-layout:before {
