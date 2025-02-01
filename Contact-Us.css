@@ -121,6 +121,14 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 459px;
+  }
+
+  .u-section-2 .u-form-1 {
+    height: 355px;
+  }
+
   .u-section-2 .u-input-1 {
     height: 48px;
   }
